@@ -1,0 +1,17 @@
+{
+	"name": "codefi",
+	"version": "0.0.1",
+	"engines": {
+		"vscode": "^1.22.0"
+	},
+	"publisher": "nijat ibrahimov",
+	"contributes": {
+		"themes": [
+			{
+				"label": "codefi",
+				"uiTheme": "vs-dark",
+				"path": "./codefi-color-theme.json"
+			}
+		]
+	}
+}
