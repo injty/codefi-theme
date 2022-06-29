@@ -1690,8 +1690,8 @@
 			"name": "Comments",
 			"scope": "comment, punctuation.definition.comment",
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#7f848e"
+				// "fontStyle": "italic",
+				"foreground": "#7f848e99"
 			}
 		},
 		{
